@@ -18,7 +18,7 @@ This lite version of the study includes only the chapters that incorporate open-
 ![image](https://github.com/user-attachments/assets/5b9c3e14-ad0d-4b26-b2c3-57ce97f289bf)
 
 
-## Original Framework:
+## Original Framework
 
 The following chapters consists of the original framework of the study: 
 1. Executive Summary,
@@ -33,7 +33,7 @@ The following chapters consists of the original framework of the study:
 10. Strategic Recommendations,
 11. Appendices.
 
-## Current Version:
+## Current Version
 This lite version of the report breaks down the first four chapters. In more detail:
 1. Executive Summary
 	- Objective: State the purpose of the analysis.
@@ -59,3 +59,8 @@ This lite version of the report breaks down the first four chapters. In more det
 	- Company B, and so on.
 
 
+## Market Analysis
+
+
+![image](https://github.com/user-attachments/assets/16acb144-e53f-488f-b376-f14ad7d7ba0e)
+[Client in FX Market.pdf](https://github.com/user-attachments/files/16712882/Client.in.FX.Market.pdf)
