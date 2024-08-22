@@ -62,5 +62,5 @@ This lite version of the report breaks down the first four chapters. In more det
 ## Market Analysis
 
 
-![image](https://github.com/user-attachments/assets/16acb144-e53f-488f-b376-f14ad7d7ba0e)
-[Client in FX Market.pdf](https://github.com/user-attachments/files/16712882/Client.in.FX.Market.pdf)
+![image](https://github.com/user-attachments/assets/24225573-8cb6-4495-aa5f-7270a069c6d4)
+[Client in FX Market.pdf](https://github.com/user-attachments/files/16713539/Client.in.FX.Market.pdf)
