@@ -10,7 +10,7 @@ This lite version of the study includes only the chapters that incorporate open-
 
 **Client in FX Market** is a cut-down version of a project in my former workplace that was not released due to operations shut-down. The prompt of the study was to create a better understanding of the new client, and also investigate where else we can further support their business. 
 
-**Subject**: Client operates in the Foreign Exchange market and offers a bespoke travel card, that trades in low rates against the high-street banks.
+**Subject**: Client operates in the Foreign Exchange market and offers a bespoke travel card, which targets UK audience, that trades in low rates against the high-street banks.
 
 
 
@@ -68,4 +68,58 @@ This lite version of the report breaks down the first four chapters. In more det
 > Power BI Dashboard made out of the IPS (International Passengers Survey) dataset: [Travel Pac, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelpac) of ONS (Office of National Statistics.)
 
 The first goal was to identify the exact industry/market which our client operates in, and understand what market share are they competing for. 
-This helps to create a benchmark and evaluate what *current efforts* bring back home.  
+This helps to create a benchmark and evaluate what *current efforts* bring back home.
+
+Logically speaking, for UK focused only audience, it was pretty straight forward to what I'm looking for to denote as "Market Share." I am looking for UK populace that goes abroad, regardless of reason. A.k.a the Outbound Travel Industry.
+
+I was thrilled when I had found 2023 data for the International Passergers Survey, that essentially ask for questions such as age, duration, expenditure, destination, e.t.c.
+
+Right away, from the static Power BI dashboard picture provided above, we can observe a couple of interesting findings in the exploratory part of the analysis. 
+1. The UK populace has three predominantly preferred destinations, based on number of visits:
+	- France (9.44%)
+	- Spain (5.61%)
+	- Netherlands (4.72%)
+2. Interestingly enough, the expenditure of the destinations procure a second list with Spain being the holiday destination where people prefer to spend more, over France over Netherlands:
+	- Spain (17.41%)
+	- France (8.67%)
+	- Netherlands (1.83%)
+This insight already labels and defines "premium locations."
+3. The most travelled age groups are:
+	- 35-44 (14.23%),
+	- 25-34 (14.03%),
+	- 45-54 (12.30%).
+4. Usually, the UK populace would prefer their getaway, business, or visiting family and friends (VFR) to be done in a span of 4-13 nights, over 14-27 nights, over 1-3 nights:
+   	- 4-13 nights (43.31%),
+   	- 14-27 nights (22.52%),
+   	- 1-3 nights (21.71%). 
+4. For this one, I had to create "Expenditure Bands" in order to segment the consumer's habits. After going through the expenditure values, I decided that the information would be analysed and displayed better if I broke down the segment into 10 bands.
+	- Band 1: >1m, anyone that has spent more than a million,
+	- Band 2: >=500k - <1m, -//- anywhere between 500k to 1m (-1),
+	- Band 3: >=250K - <500K, -//- 250k to 500k (-1),
+	- Band 4: >=100k - <250K, -//- 100k to 250k (-1),
+	- Band 5: >=50k - <100k, -//- 50k to 100k (-1),
+	- Band 6: >=25k - <50k, -//- 25k to 50k (-1),
+	- Band 7: >=15k - <25k, -//- 15k to 25k (-1),
+	- Band 8: >=10k - <15k, -//- 10k to 15k (-1),
+	- Band 9: >=5k - <10k, -//- 5k to 10k (-1),
+	- Band 10: <249, anyone that has spent less than 250 pounds.
+
+Up until this point, I was happily exploring this dataset, feeling so *hyped* that I have found an immediate solution to my problems, and there was a source I can rely on, as ONS generally is known for validity. But the moment I had segmented expenditure in 10 whole bands, I realised something was off.
+
+Let me explain. In the past, whenever I had to segment a feature, the more bands I made meant that there are data entries stuck behind a percentile in the distribution of the dataset. Based on what it is that you are trying to breakdown, a number of data entries under a certain percentile, make no sense.
+
+Let me ask you if you noticed anything wrong with the data presented on the dashboard. Want to go back and have a quick look?
+
+**How** is it possible that 62.94% of the people that have travelled for *any* reason, have spent more than 1 million pounds on their destination. Unless there is a *secret* party in the UK where they give away money that I never got invited to.
+
+More than that, how is it that 2.17%, a.k.a 366 people managed to travel with an expenditure of under 249 pounds? And that's where my dreams shattered, as I went back and saw more inconsistencies, I knew that the market share that I had denoted on the research of Outbound Travel Industry being valued somewhere between £71.5bn - £75bn in 2024 with a stated CAGR of 8.6% over 2024 - 2034, was just inflated.
+
+Problem is that other analysts from big market research companies have used the same datasets as I have, to make all sorts of forecasting in the industry. Ah, the wonders of Market Analysis, BI and Data Analytics! It all goes back to the fundamental question which my mother used to ask me all the time when I did something under the premise of "but the other kids did that as well, mom!", which is "If *the other kids* ran and jumped off a cliff, would you also do it?" <sub> ..depends how big the fall is.. </sub> ***enter slap noise***
+
+"But Fanis, if the market has the same false information and big research companies use that same false information to create a chassis of how the market is going to be, and every business is using that very false chassis to benchmark and compare themselves, isn't the nash equilibrium to use the same false information and chassis and benchmark your client to the false standards?"
+
+**You are chaotic neutral and I like you.** but no.
+
+You bite your lip, make some Micheal Scott grunting noises, double click the digital trash bin icon on your desktop and then you tell your former manager and head of BI "That research I started proactively about our new client? Nvm, lol."
+
+Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results, as on the outcome of the report, I ended up creating an artificial market share of the industry that would pose as the benchmark of the client.
