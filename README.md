@@ -124,10 +124,8 @@ You bite your lip, make some Micheal Scott grunting noises, double click the dig
 
 Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results. In the end of the analysis and the report, I ended up conjuring an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said in "Tribute":
 
->This is not the song in the world, no
+>This is not the greatest song in the world, no
 >
->This is just a tribute,
->
->To the greatest song in the world!
+>This is just a tribute
 
 The lite-version of the report can be found [here.](https://github.com/FanisGl/Client-in-FX-market/blob/main/Report/Competitive%20Analysis%20-%20FX%20market.pdf)
