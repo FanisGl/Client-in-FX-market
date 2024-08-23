@@ -122,4 +122,12 @@ Problem is that other analysts from big market research companies have used the 
 
 You bite your lip, make some Micheal Scott grunting noises, double click the digital trash bin icon on your desktop and then you tell your former manager and head of BI "That research I started proactively about our new client? Nvm, lol."
 
-Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results, as on the outcome of the report, I ended up creating an artificial market share of the industry that would pose as the benchmark of the client.
+Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results, as on the outcome of the report, I ended up creating an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said in "Tribute":
+
+>This is not the song in the world, no
+>
+>This is just a tribute,
+>
+>To the greatest song in the world!
+
+The lite-version of the report can be found [here.](https://github.com/FanisGl/Client-in-FX-market/blob/main/Report/Competitive%20Analysis%20-%20FX%20market.pdf)
