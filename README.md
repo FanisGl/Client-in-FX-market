@@ -110,22 +110,36 @@ Let me explain. In the past, whenever I had to segment a feature, the more bands
 
 Let me ask you if you noticed anything wrong with the data presented on the dashboard. Want to go back and have a quick look?
 
-**How** is it possible that 62.94% of the people that have travelled for *any* reason, have spent more than 1 million pounds on their destination. Unless there is a *secret* party in the UK where they give away money that I never got invited to.
+**How** is it possible that 62.94% of the people that have travelled for *any* reason, spent more than 1 million GBP on their travels? Unless travelling nowadays is a millionaire-only thing, then some of the passengers answering those surveys might have not been 100% *honest*.
 
-More than that, how is it that 2.17%, a.k.a 366 people managed to travel with an expenditure of under 249 pounds? And that's where my dreams shattered, as I went back and saw more inconsistencies, I knew that the market share that I had denoted on the research of Outbound Travel Industry being valued somewhere between £71.5bn - £75bn in 2024 with a stated CAGR of 8.6% over 2024 - 2034, was just inflated.
+Moreover, 2.17% or 366 people managed to make do with their travels with budget of under 249 pounds. Now, that's impressive. I now knew that the market share that I had denoted early on the research of Outbound Travel Industry being valued somewhere between £71.5bn - £75bn in 2024 with a stated CAGR of 8.6% over 2024 - 2034, is a metric with inconsistent data evidence.
 
-Problem is that other analysts from big market research companies have used the same datasets as I have, to make all sorts of forecasting in the industry. Ah, the wonders of Market Analysis, BI and Data Analytics! It all goes back to the fundamental question which my mother used to ask me all the time when I did something under the premise of "but the other kids did that as well, mom!", which is "If *the other kids* ran and jumped off a cliff, would you also do it?" <sub> ..depends how big the fall is.. </sub>
+And forget about my own reseach, I bit my lip and started screaming "no" like Micheal Scott did when he found out Toby has in fact returned back in the office, but reading and analysing competitors could still help me benchmark in the market. 
 
-"But Fanis, if the market has the same false information and big research companies use that same false information to create a chassis of how the market is going to be, and every business is using that very false chassis to benchmark and compare themselves, isn't the nash equilibrium to use the same false information and chassis and benchmark your client to the false standards?"
+## The real problem
+If I found that dataset, and I made that mistake, it is almost certain that other analysts have done it as well. And indeed, analysts from big market research companies have used that same dataset, and made a whole prediction for 10 years in the future. **Ah, the wonders of analytics!** 
+
+Funnily enough, it all goes back to the fundamental question which my mother used to ask me all the time when I did something under the premise of "It wasn't just me, the other kids did it as well, mom!", which is "If *the other kids* ran and jumped off a cliff, would you do it as well?" <sub> ..well, how big is the fall.. </sub>
+
+Some of you could argue: "But Fanis, if the market has the same false information and big research companies use that same false information to create a chassis of how the market is going to be, and every business is using that very false chassis to benchmark and compare themselves, isn't this becoming a new reality and the nash equilibrium is to use the same false information and chassis and benchmark your client and their strategies to the false standards?"
 
 **You are chaotic neutral and I like you.** but no.
 
-You bite your lip, make some Micheal Scott grunting noises, double click the digital trash bin icon on your desktop and then you tell your former manager and head of BI "That research I started proactively for our new client? Nvm, lol."
+In that case, you just make grunting noises, double click the digital trash bin icon on your desktop and then you tell your former manager and head of BI "That research I started proactively for our new client? Nvm, lol."
 
-Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results. In the end of the analysis and the report, I ended up conjuring an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said:
+Jokes aside, even with such a setback, the competitive research yielded far greater results even with being uncertain of the Market Share in order to strategise around it. In the end, we did create an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said:
 
 >This is not the greatest song in the world, no
 >
 >This is just a tribute
+
+## Lessons Learnt
+
+This case study, has reinforced some of my beliefs. 
+
+1) Always have your own internal voice and thoughts: if it does not look or feel right, you do not force the numbers in your study.
+2) The earlier you accept the setback, the better. Think of this as a sunk cost; It is more harmful to keep building your analysis around unreliable data and unsustainable in the long-term.
+3) Be open-minded with problem-solving. In Academia, problem-solving demands are straightforward: use framework X to solve problem Y. In the day-to-day problems, you need the understanding of multiple frameworks and concepts, in order to solve the multifaceted problem Y.
+4) When retrieving raw data, draw a distinct relationship with your hypotheses about what can be and what can't be supported. 
 
 The lite-version of the report can be found [here.](https://github.com/FanisGl/Client-in-FX-market/blob/main/Report/Competitive%20Analysis%20-%20FX%20market.pdf)
