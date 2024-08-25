@@ -114,7 +114,7 @@ Let me ask you if you noticed anything wrong with the data presented on the dash
 
 More than that, how is it that 2.17%, a.k.a 366 people managed to travel with an expenditure of under 249 pounds? And that's where my dreams shattered, as I went back and saw more inconsistencies, I knew that the market share that I had denoted on the research of Outbound Travel Industry being valued somewhere between £71.5bn - £75bn in 2024 with a stated CAGR of 8.6% over 2024 - 2034, was just inflated.
 
-Problem is that other analysts from big market research companies have used the same datasets as I have, to make all sorts of forecasting in the industry. Ah, the wonders of Market Analysis, BI and Data Analytics! It all goes back to the fundamental question which my mother used to ask me all the time when I did something under the premise of "but the other kids did that as well, mom!", which is "If *the other kids* ran and jumped off a cliff, would you also do it?" <sub> ..depends how big the fall is.. </sub> ***enter slap noise***
+Problem is that other analysts from big market research companies have used the same datasets as I have, to make all sorts of forecasting in the industry. Ah, the wonders of Market Analysis, BI and Data Analytics! It all goes back to the fundamental question which my mother used to ask me all the time when I did something under the premise of "but the other kids did that as well, mom!", which is "If *the other kids* ran and jumped off a cliff, would you also do it?" <sub> ..depends how big the fall is.. </sub>
 
 "But Fanis, if the market has the same false information and big research companies use that same false information to create a chassis of how the market is going to be, and every business is using that very false chassis to benchmark and compare themselves, isn't the nash equilibrium to use the same false information and chassis and benchmark your client to the false standards?"
 
@@ -122,7 +122,7 @@ Problem is that other analysts from big market research companies have used the 
 
 You bite your lip, make some Micheal Scott grunting noises, double click the digital trash bin icon on your desktop and then you tell your former manager and head of BI "That research I started proactively for our new client? Nvm, lol."
 
-Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results. In the end of the analysis and the report, I ended up conjuring an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said in "Tribute":
+Jokes aside, even with such a setback, it's still early development of the analysis, and the competitive research yielded greater results. In the end of the analysis and the report, I ended up conjuring an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said:
 
 >This is not the greatest song in the world, no
 >
