@@ -116,7 +116,7 @@ Moreover, 2.17% or 366 people managed to make do with their travels with budget 
 
 > Enter <Micheal Scott screaming "NO" when he found out Toby from HR had in fact returned> gif here.
 
-## The real problem
+## The Real Problem
 If I found that dataset, and I made that mistake, it is almost certain that other analysts have done it as well. And indeed, analysts from big market research companies have used that same dataset, and made a whole prediction for 10 years in the future. **Ah, the wonders of analytics!** 
 
 Funnily enough, it all goes back to the fundamental question which my mother used to ask me all the time when I did something under the premise of "It wasn't just me, the other kids did it as well, mom!", which is "If *the other kids* ran and jumped off a cliff, would you do it as well?" <sub> ..well, how big is the fall.. </sub>
