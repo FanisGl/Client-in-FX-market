@@ -114,7 +114,7 @@ Let me ask you if you noticed anything wrong with the data presented on the dash
 
 Moreover, 2.17% or 366 people managed to make do with their travels with budget of under 249 pounds. Now, that's impressive. I now knew that the market share that I had denoted early on the research of Outbound Travel Industry being valued somewhere between £71.5bn - £75bn in 2024 with a stated CAGR of 8.6% over 2024 - 2034, is a metric with inconsistent data evidence.
 
-And forget about my own reseach, I bit my lip and started screaming "no" like Micheal Scott did when he found out Toby has in fact returned back in the office, but reading and analysing competitors could still help me benchmark in the market. 
+> Enter <Micheal Scott screaming "NO" when he found out Toby from HR had in fact returned> gif here.
 
 ## The real problem
 If I found that dataset, and I made that mistake, it is almost certain that other analysts have done it as well. And indeed, analysts from big market research companies have used that same dataset, and made a whole prediction for 10 years in the future. **Ah, the wonders of analytics!** 
@@ -125,9 +125,7 @@ Some of you could argue: "But Fanis, if the market has the same false informatio
 
 **You are chaotic neutral and I like you.** but no.
 
-In that case, you just make grunting noises, double click the digital trash bin icon on your desktop and then you tell your former manager and head of BI "That research I started proactively for our new client? Nvm, lol."
-
-Jokes aside, even with such a setback, the competitive research yielded far greater results even with being uncertain of the Market Share in order to strategise around it. In the end, we did create an artificial market share of the industry that would pose as the benchmark of the client. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said:
+Jokes aside, even with such a setback, the competitive research yielded far greater results even with the uncertainty of the Market Share. In the end, I did create an artificial share for the client's industry in order to simulate appropriate strategies. Conveniently enough, this great effort does not appear in the lite-version of the report that can be found in this repo, but as Jack Black once said:
 
 >This is not the greatest song in the world, no
 >
