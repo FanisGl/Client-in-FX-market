@@ -140,6 +140,7 @@ This case study, has reinforced some of my beliefs.
 1) Always have your own internal voice and thoughts: if it does not look or feel right, you do not force the numbers in your study.
 2) The earlier you accept the setback, the better. Think of this as a sunk cost; It is more harmful to keep building your analysis around unreliable data and unsustainable in the long-term.
 3) Be open-minded with problem-solving. In Academia, problem-solving demands are straightforward: use framework X to solve problem Y. In the day-to-day problems, you need the understanding of multiple frameworks and concepts, in order to solve the multifaceted problem Y.
-4) When retrieving raw data, draw a distinct relationship with your hypotheses about what can be and what can't be supported. 
+4) When creating insights from raw data, draw a distinct relationship about what can be and what can't be supported in your hypotheses. It will make those meetings with the clients and managers/directors way easier.
+5) Rejecting a hypothesis, is still contributing to your market and business knowledge at the end of the day. 
 
 The lite-version of the report can be found [here.](https://github.com/FanisGl/Client-in-FX-market/blob/main/Report/Competitive%20Analysis%20-%20FX%20market.pdf)
