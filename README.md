@@ -1,4 +1,4 @@
-# Client in FX Market :
+# Client in FX Market
 > Tags: [Market Research], [Data Analytics], [BI]
 >
 > Technical Skills: [PowerBI], [Excel]
