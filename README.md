@@ -141,4 +141,4 @@ This case study, has reinforced some of my beliefs.
 4) When creating insights from raw data, draw a distinct relationship about what can be and what can't be supported in your hypotheses. It will make those meetings with the clients and managers/directors way easier.
 5) Do not underestimate the knowledge earned from rejecting a hypothesis. It contributes to your understanding of the market and its modus operandi. That helps a lot, particularly in the past when I was working for the Marketing Industry. 
 
-The lite-version of the report can be found [here.](https://github.com/FanisGl/Client-in-FX-market/blob/main/Report/Competitive%20Analysis%20-%20FX%20market.pdf)
+The lite-version of the report can be found [here.](Report/Competitive Analysis - FX market.pdf)
