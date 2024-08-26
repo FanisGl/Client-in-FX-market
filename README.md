@@ -113,7 +113,7 @@ Let me ask you if you noticed anything wrong with the data presented on the dash
 
 Moreover, 2.17% or 366 people managed to make do with their travels with budget of under 249 pounds. Now, that's impressive. I now knew that the market share that I had denoted early on the research of Outbound Travel Industry being valued somewhere between £71.5bn - £75bn in 2024 with a stated CAGR of 8.6% over 2024 - 2034, is a metric with inconsistent data evidence.
 
-> Enter <Micheal Scott screaming "NO" when he found out Toby from HR had in fact returned> gif here.
+> Enter <Micheal Scott screaming "NO" when he found out Toby from HR had returned> gif here.
 
 ## The Real Problem
 If I found that dataset, and I made that mistake, it is almost certain that other analysts have done it as well. And indeed, analysts from big market research companies have used that same dataset, and made a whole prediction for 10 years in the future. **Ah, the wonders of analytics!** 
