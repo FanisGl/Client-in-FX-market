@@ -8,10 +8,9 @@
 > [!Note]
 This lite version of the study includes only the chapters that incorporate open-source information.
 
-**Client in FX Market** is a cut-down version of a project that I started for former workplace in my free time, that was not released due to a sudden shut-down. The prompt of the study was to create a better understanding of a potential new client, and also investigate where else we can further support their business. 
+**Client in FX Market** is a condensed version of a project I initiated during my spare time at my former workplace. Unfortunately, the full study was not released due to the company's sudden shutdown. The aim of the study was to gain a deeper understanding of a potential new client and to explore additional ways I could support their business.
 
 **Subject**: The company operates in the Foreign Exchange market and offers a bespoke travel card, which targets UK audience, that trades in low rates against the high-street banks.
-
 
 
 
