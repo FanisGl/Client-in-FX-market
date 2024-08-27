@@ -135,7 +135,7 @@ Jokes aside, even with such a setback, the competitive research yielded far grea
 This case study, has reinforced some of my beliefs. 
 
 1) Always have your own internal voice and thoughts: if it does not look or feel right, you do not force the numbers in your study.
-2) The earlier you accept the setback, the better. Think of this as a sunk cost; It is more harmful to keep building your analysis around unreliable data and unsustainable in the long-term.
+2) The earlier you accept the setback, the better. Think of this as a sunk cost; It is more harmful and unsustainable in the long-term, to keep building your analysis around unreliable data.
 3) Be open-minded with problem-solving. In Academia, problem-solving demands are straightforward: use framework X to solve problem Y. In the day-to-day problems, you need the understanding of multiple frameworks and concepts, in order to solve a problem.
 4) When creating insights from raw data, draw a distinct relationship about what can be and what can't be supported in your hypotheses. It will make those meetings with the clients and managers/directors way easier.
 5) Do not underestimate the knowledge earned from rejecting a hypothesis. It contributes to your understanding of the market and its modus operandi. That helps a lot, particularly in the past when I was working for the Marketing Industry. 
