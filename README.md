@@ -103,11 +103,7 @@ This insight already labels and defines "premium locations."
 	- Band 9: >=5k - <10k, -//- 5k to 10k (-1),
 	- Band 10: <249, anyone that has spent less than 250 pounds.
 
-Up until this point, I was happily exploring this dataset, feeling so *hyped* that I have found an immediate solution to my problems, and there was a source I can rely on, as ONS generally is known for validity. But the moment I had segmented expenditure in 10 whole bands, I realised something was off.
-
-Let me explain. In the past, whenever I had to segment a feature, the more bands I made meant that there are data entries stuck behind a percentile in the distribution of the dataset. Based on what it is that you are trying to breakdown, a number of data entries under a certain percentile, make no sense.
-
-Let me ask you if you noticed anything wrong with the data presented on the dashboard. Want to go back and have a quick look?
+Let me ask if you noticed anything wrong with the data presented on the dashboard.
 
 **How** is it possible that 62.94% of the people that have travelled for *any* reason, spent more than 1 million GBP on their travels? Unless travelling nowadays is a millionaire-only thing, then some of the passengers answering those surveys might have not been 100% *honest*.
 
