@@ -62,7 +62,7 @@ This lite version of the report breaks down the first four chapters. In more det
 
 
 ![image](https://github.com/user-attachments/assets/24225573-8cb6-4495-aa5f-7270a069c6d4)
-> [Outbount Travel Industry Dashboard.pdf](https://github.com/user-attachments/files/16713539/Client.in.FX.Market.pdf)
+> [Outbound Travel Industry Dashboard.pdf](https://github.com/user-attachments/files/16713539/Client.in.FX.Market.pdf)
 >
 > Power BI Dashboard made out of the IPS (International Passengers Survey) dataset: [Travel Pac, 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelpac) of ONS (Office of National Statistics.)
 
